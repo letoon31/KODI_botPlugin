@@ -3,4 +3,4 @@ A bot assistant plugin for KODI - using AI technology - allowing to execute acti
 Some key figures: understand the query, identify the intent, the entity, then execute a search, and finally populate relevant validated information in KODI movies database.
 
 Usage of Python 2.7.15 for Kodi 17
-CCC
+DDD
